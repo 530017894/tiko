@@ -1,0 +1,306 @@
+2020-12-09 15:00:47|679.305µs|404|GET|/|127.0.0.1|0 B|9 B||
+2020-12-09 15:00:48|24.676µs|404|GET|/favicon.ico|127.0.0.1|0 B|9 B||
+2020-12-09 15:01:09|19.055667ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:01:22|1.118466ms|200|GET|/api/users/2|127.0.0.1|id=2|0 B|232 B||
+2020-12-09 15:01:25|889.548µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:02:35|852.144µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:02:36|792.018µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:02:37|785.028µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:02:39|857.625µs|200|GET|/api/users/2|127.0.0.1|id=2|0 B|231 B||
+2020-12-09 15:02:42|822.479µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:04:01|2.131037ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:04:04|1.024865ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:04:40|2.818809ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:04:41|1.08102ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:27:59|1.990216ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:28:00|790.857µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:28:00|1.101451ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:28:01|802.501µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:28:01|1.029236ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 15:28:22|911.171µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|230 B||
+2020-12-09 17:02:22|2.382185ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 17:02:26|692.815µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 17:02:27|620.072µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 17:03:00|969.733µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 17:03:02|581.407µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 17:03:31|3.385117ms|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 17:03:32|808.637µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-09 17:03:32|911.15µs|200|GET|/api/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-10 15:01:00|1.042146ms|404|GET|/|127.0.0.1|0 B|9 B||
+2020-12-10 15:01:04|405.481µs|401|GET|/v1/admin/users/1|127.0.0.1|0 B|38 B||
+2020-12-10 15:03:58|1.212296ms|401|GET|/v1/admin/users/1|127.0.0.1|0 B|38 B||
+2020-12-10 15:04:01|239.181µs|401|GET|/v1/admin/users/1|127.0.0.1|0 B|38 B||
+2020-12-10 15:04:02|264.325µs|401|GET|/v1/admin/users/1|127.0.0.1|0 B|38 B||
+2020-12-10 15:04:02|256.25µs|401|GET|/v1/admin/users/1|127.0.0.1|0 B|38 B||
+2020-12-10 15:04:30|412.759µs|401|GET|/v1/admin/users/1|127.0.0.1|0 B|38 B||
+2020-12-10 15:05:20|624.075µs|401|GET|/v1/admin/users/1|127.0.0.1|0 B|38 B||
+2020-12-10 15:09:25|2.297917ms|500|GET|/v1/admin/users/1|127.0.0.1|0 B|21 B|error(runtime error: invalid memory address or nil pointer dereference /Users/mac/go/pkg/mod/github.com/snowlyg/!iris!admin!api@v0.0.0-20201114150657-0a985799ec27/controllers/user.go:137)|
+2020-12-10 15:11:19|12.925729ms|200|GET|/v1/admin/users/1|127.0.0.1|id=1|0 B|231 B||
+2020-12-10 15:13:18|3.041168ms|200|GET|/v1/admin/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-10 15:14:36|4.304458ms|200|GET|/v1/admin/users/1|127.0.0.1|id=1|0 B|232 B||
+2020-12-10 15:17:48|2.323256ms|200|GET|/v1/admin/users/1|127.0.0.1|id=1|0 B|226 B||
+2020-12-10 15:20:29|338.418µs|200|POST|/v1/admin/users|127.0.0.1|244 B|205 B|------WebKitFormBoundaryJa7ubpCvUdP0GVC0
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryJa7ubpCvUdP0GVC0
+Content-Disposition: form-data; name="password"
+
+123456
+------WebKitFormBoundaryJa7ubpCvUdP0GVC0--
+|
+2020-12-10 15:23:48|715.532µs|200|POST|/v1/admin/users|127.0.0.1|244 B|205 B|------WebKitFormBoundaryxn9KHK4pJqL3BB6f
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryxn9KHK4pJqL3BB6f
+Content-Disposition: form-data; name="password"
+
+123456
+------WebKitFormBoundaryxn9KHK4pJqL3BB6f--
+|
+2020-12-10 15:26:10|2.533728ms|200|POST|/v1/admin/users|127.0.0.1|244 B|205 B|------WebKitFormBoundaryXovQPaz1LIxcXZc3
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryXovQPaz1LIxcXZc3
+Content-Disposition: form-data; name="password"
+
+123456
+------WebKitFormBoundaryXovQPaz1LIxcXZc3--
+|
+2020-12-10 15:27:40|126.056µs|200|POST|/v1/admin/users|127.0.0.1|536 B|205 B|------WebKitFormBoundaryJL07Mol0QyAsygYX
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryJL07Mol0QyAsygYX
+Content-Disposition: form-data; name="password"
+
+123456
+------WebKitFormBoundaryJL07Mol0QyAsygYX
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundaryJL07Mol0QyAsygYX
+Content-Disposition: form-data; name="intro"
+
+测试
+------WebKitFormBoundaryJL07Mol0QyAsygYX
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundaryJL07Mol0QyAsygYX--
+|
+2020-12-10 15:28:03|143.756µs|200|POST|/v1/admin/users|127.0.0.1|537 B|205 B|------WebKitFormBoundarynXAy0lhuegXgs5m5
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundarynXAy0lhuegXgs5m5
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundarynXAy0lhuegXgs5m5
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundarynXAy0lhuegXgs5m5
+Content-Disposition: form-data; name="intro"
+
+测试
+------WebKitFormBoundarynXAy0lhuegXgs5m5
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundarynXAy0lhuegXgs5m5--
+|
+2020-12-10 15:28:43|115.278µs|200|POST|/v1/admin/users|127.0.0.1|544 B|205 B|------WebKitFormBoundaryDhprcJib8B8GTEGx
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryDhprcJib8B8GTEGx
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundaryDhprcJib8B8GTEGx
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundaryDhprcJib8B8GTEGx
+Content-Disposition: form-data; name="introduction"
+
+测试
+------WebKitFormBoundaryDhprcJib8B8GTEGx
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundaryDhprcJib8B8GTEGx--
+|
+2020-12-10 15:29:57|130.973µs|200|POST|/v1/admin/users|127.0.0.1|86 B|218 B|username=test&password=test123&name=test&introduction=%E6%B5%8B%E8%AF%95&avatar=dadasd|
+2020-12-10 15:30:01|106.257µs|200|POST|/v1/admin/users|127.0.0.1|0 B|146 B||
+2020-12-10 15:30:07|149.741µs|200|POST|/v1/admin/users|127.0.0.1|544 B|205 B|------WebKitFormBoundary8qsoBfu42WJHT6zt
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundary8qsoBfu42WJHT6zt
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundary8qsoBfu42WJHT6zt
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundary8qsoBfu42WJHT6zt
+Content-Disposition: form-data; name="introduction"
+
+测试
+------WebKitFormBoundary8qsoBfu42WJHT6zt
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundary8qsoBfu42WJHT6zt--
+|
+2020-12-10 15:31:44|851.832µs|200|POST|/v1/admin/users|127.0.0.1|544 B|205 B|------WebKitFormBoundaryLEuS5PaTWv1DzR3L
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryLEuS5PaTWv1DzR3L
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundaryLEuS5PaTWv1DzR3L
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundaryLEuS5PaTWv1DzR3L
+Content-Disposition: form-data; name="introduction"
+
+测试
+------WebKitFormBoundaryLEuS5PaTWv1DzR3L
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundaryLEuS5PaTWv1DzR3L--
+|
+2020-12-10 15:37:42|192.675µs|200|POST|/v1/admin/users|127.0.0.1|544 B|205 B|------WebKitFormBoundaryVnayoUvmHPiTATI8
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundaryVnayoUvmHPiTATI8
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryVnayoUvmHPiTATI8
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundaryVnayoUvmHPiTATI8
+Content-Disposition: form-data; name="introduction"
+
+测试
+------WebKitFormBoundaryVnayoUvmHPiTATI8
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundaryVnayoUvmHPiTATI8--
+|
+2020-12-10 15:38:37|127.777µs|200|POST|/v1/admin/users|127.0.0.1|537 B|205 B|------WebKitFormBoundarySX6JdBCEfVBc6eTY
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundarySX6JdBCEfVBc6eTY
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundarySX6JdBCEfVBc6eTY
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundarySX6JdBCEfVBc6eTY
+Content-Disposition: form-data; name="intro"
+
+测试
+------WebKitFormBoundarySX6JdBCEfVBc6eTY
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundarySX6JdBCEfVBc6eTY--
+|
+2020-12-10 15:39:00|685.982µs|200|POST|/v1/admin/users|127.0.0.1|537 B|205 B|------WebKitFormBoundarygOvGHL9AUS7tuRWC
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundarygOvGHL9AUS7tuRWC
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundarygOvGHL9AUS7tuRWC
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundarygOvGHL9AUS7tuRWC
+Content-Disposition: form-data; name="intro"
+
+测试
+------WebKitFormBoundarygOvGHL9AUS7tuRWC
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundarygOvGHL9AUS7tuRWC--
+|
+2020-12-10 15:45:18|96.863206ms|200|POST|/v1/admin/users|127.0.0.1|91 B|98 B|{"name":"test","username":"test","password":"test123","intro":"test123","avatar":"test123"}|
+2020-12-10 15:47:26|96.173039ms|200|POST|/v1/admin/users|127.0.0.1|98 B|98 B|{"name":"test","username":"test","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 15:47:42|94.380933ms|200|POST|/v1/admin/users|127.0.0.1|91 B|98 B|{"name":"test","username":"test","password":"test123","intro":"test123","avatar":"test123"}|
+2020-12-10 15:48:08|94.404533ms|200|POST|/v1/admin/users|127.0.0.1|91 B|98 B|{"name":"test","username":"test","password":"test123","intro":"test123","avatar":"test123"}|
+2020-12-10 15:48:25|90.983µs|200|POST|/v1/admin/users|127.0.0.1|537 B|205 B|------WebKitFormBoundary1rXL1qFiwBrodi14
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundary1rXL1qFiwBrodi14
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundary1rXL1qFiwBrodi14
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundary1rXL1qFiwBrodi14
+Content-Disposition: form-data; name="intro"
+
+测试
+------WebKitFormBoundary1rXL1qFiwBrodi14
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundary1rXL1qFiwBrodi14--
+|
+2020-12-10 15:49:08|96.32826ms|200|POST|/v1/admin/users|127.0.0.1|91 B|98 B|{"name":"test","username":"test","password":"test123","intro":"test123","avatar":"test123"}|
+2020-12-10 15:51:06|94.563052ms|200|POST|/v1/admin/users|127.0.0.1|98 B|95 B|{"name":"test","username":"test","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 15:53:25|94.242398ms|200|POST|/v1/admin/users|127.0.0.1|98 B|83 B|{"name":"test","username":"test","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 15:53:56|94.781898ms|200|POST|/v1/admin/users|127.0.0.1|98 B|314 B|{"name":"test","username":"test","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 15:57:09|134.876µs|200|POST|/v1/admin/users|127.0.0.1|537 B|205 B|------WebKitFormBoundaryAtGkBAXe9NLQoo7q
+Content-Disposition: form-data; name="name"
+
+test
+------WebKitFormBoundaryAtGkBAXe9NLQoo7q
+Content-Disposition: form-data; name="username"
+
+test
+------WebKitFormBoundaryAtGkBAXe9NLQoo7q
+Content-Disposition: form-data; name="password"
+
+test123
+------WebKitFormBoundaryAtGkBAXe9NLQoo7q
+Content-Disposition: form-data; name="intro"
+
+测试
+------WebKitFormBoundaryAtGkBAXe9NLQoo7q
+Content-Disposition: form-data; name="avatar"
+
+dadasd
+------WebKitFormBoundaryAtGkBAXe9NLQoo7q--
+|
+2020-12-10 15:59:03|100.409331ms|200|POST|/v1/admin/users|127.0.0.1|98 B|101 B|{"name":"test","username":"test","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 16:00:31|96.872638ms|200|POST|/v1/admin/users|127.0.0.1|101 B|101 B|{"name":"test123","username":"test","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 16:00:42|97.674279ms|200|POST|/v1/admin/users|127.0.0.1|101 B|317 B|{"name":"test","username":"test123","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 16:06:05|99.27244ms|200|POST|/v1/admin/users|127.0.0.1|101 B|104 B|{"name":"test","username":"test123","password":"test123","introduction":"test123","avatar":"test123"}|
+2020-12-10 16:07:14|97.926352ms|200|POST|/v1/admin/users|127.0.0.1|102 B|318 B|{"name":"test","username":"test1234","password":"test123","introduction":"test123","avatar":"test123"}|
